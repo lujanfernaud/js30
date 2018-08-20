@@ -1,0 +1,3 @@
+[submodule "funky-drummer"]
+	path = funky-drummer
+	url = git@github.com:lujanfernaud/funky-drummer.git
